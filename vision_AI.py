@@ -1,5 +1,8 @@
+# Extra packages
 from google.cloud import vision
 import cv2
+
+# Default part of python
 import re
 from datetime import datetime
 import os
